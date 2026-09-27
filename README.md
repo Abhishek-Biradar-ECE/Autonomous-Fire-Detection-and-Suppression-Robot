@@ -1,4 +1,4 @@
-# Autonomous Fire Fighting Robot
+# Autonomous-Fire-Fighting-Robot
 
 ## Overview
 The Autonomous Fire Fighting Robot is an embedded systems project developed using Arduino. The robot is designed to automatically detect fire using a flame sensor, navigate towards the fire source, and activate a water pump to extinguish it. This project demonstrates sensor interfacing, motor control, real-time decision making, and embedded programming concepts.
