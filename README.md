@@ -1,12 +1,12 @@
-# Autonomous Fire Fighting Robot
+# Autonomous-Fire-Detection-and-Suppression-Robot
 
-An Arduino-based autonomous fire-fighting robot designed to detect a flame, navigate toward the fire source, and activate a water pump for fire suppression. The project demonstrates **embedded programming, sensor interfacing, motor control, real-time decision making, and actuator control**.
+An Arduino-based Autonomous-Fire-Detection-and-Suppression-Robot designed to detect a flame, navigate toward the fire source, and activate a water pump for fire suppression. The project demonstrates **embedded programming, sensor interfacing, motor control, real-time decision making, and actuator control**.
 
 ![Autonomous Fire Fighting Robot](circuit_image.png)
 
 ## Overview
 
-The Autonomous Fire Fighting Robot is an embedded systems project developed using the **Arduino Uno**.
+The Autonomous-Fire-Detection-and-Suppression-Robot is an embedded systems project developed using the **Arduino Uno**.
 
 The robot continuously monitors its surroundings using **flame sensors**. When a flame is detected, the Arduino processes the sensor inputs and controls the DC motors to move the robot toward the detected fire source. Once the robot reaches the fire, a **water pump is activated** to suppress the flame.
 
